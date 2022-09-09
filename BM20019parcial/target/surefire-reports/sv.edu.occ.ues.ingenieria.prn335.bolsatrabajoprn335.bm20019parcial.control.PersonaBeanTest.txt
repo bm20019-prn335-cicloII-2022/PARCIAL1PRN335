@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sv.edu.occ.ues.ingenieria.prn335.bolsatrabajoprn335.bm20019parcial.control.PersonaBeanTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.933 sec
